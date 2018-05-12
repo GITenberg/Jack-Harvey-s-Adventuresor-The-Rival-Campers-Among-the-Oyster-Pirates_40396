@@ -1,0 +1,34 @@
+_repo: Jack-Harvey-s-Adventuresor-The-Rival-Campers-Among-the-Oyster-Pirates_40396
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gowing, Louis D.
+    alias: Gowing, L. D. (Louis D.)
+    gutenberg_agent_id: '40603'
+    url: http://www.gutenberg.org/2009/agents/40603
+covers:
+- cover_type: archival
+  image_path: 40396-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Ruel Perley
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '33372'
+    url: http://www.gutenberg.org/2009/agents/33372
+description: ''
+gutenberg_issued: '2012-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Chesapeake Bay Region (Md. and Va.) -- Juvenile fiction'
+- !lcsh 'Oyster fisheries -- Juvenile fiction'
+title: Jack Harvey's Adventures; or, The Rival Campers Among the Oyster Pirates
+url: http://www.gutenberg.org/ebooks/40396
